@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Camera",
+      "category": "electronics",
+      "image": "https://ipfs.io/ipfs/QmUL7BziDMkkPVfSvbuYXD8APPzBRyskiJ8vV6mCXFDMwF?filename=Polaroid.jpg",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Drone",
+      "category": "electronics",
+      "image": "https://ipfs.io/ipfs/QmUsU988gL5DqHqxv3Q9Q1myUehgbBpJfVJdavFoT7tyfi?filename=drone.png",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Headset",
+      "category": "electronics",
+      "image": "https://ipfs.io/ipfs/QmWaRAvuhrdzo6jZKjHe4VQpXRHzUNMqtyP9uQdbfLhCRY?filename=headphones.webp",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "category": "clothing",
+      "image": "https://ipfs.io/ipfs/QmP6qfzW4EZdEVES3wvKFzLTe67CTSXzUnCnU69nGvx7at?filename=shoes.webp",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "category": "clothing",
+      "image": "https://ipfs.io/ipfs/QmfEoYXMRJazq4HvW53q96wHAkACP1PucsqwY3KuWdKiyj?filename=sunglass.webp",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Watch",
+      "category": "clothing",
+      "image": "https://ipfs.io/ipfs/QmRdfqsN9MJd4esjHLEh5fpRppZJmANcQGRJuY7DjjT7Eq?filename=watch.webp",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "Puzzle Cube",
+      "category": "toys",
+      "image": "https://ipfs.io/ipfs/QmSdnVN2aP4sGp1skLPsneH7WG8cWg4bDy3nqNJnVQaiTL?filename=cube.webp",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Train Set",
+      "category": "toys",
+      "image": "https://ipfs.io/ipfs/QmVeQgrLM4pKZbgvNAmAoSMMFzSeXo6iHLkb2f4sH6bQQG?filename=traiin.jpg",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Robot Set",
+      "category": "toys",
+      "image": "https://ipfs.io/ipfs/QmYmk5PUE9Mgsqr4qvmU4uqEeGmwC4VuCa5xXA6YupS3rn?filename=robot.webp",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
